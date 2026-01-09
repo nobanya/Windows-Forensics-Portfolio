@@ -1,7 +1,7 @@
 # Forensic Examination of Windows File System Artifacts
 
 ## Introduction
-Windows file systems and operating system artifacts store a significant amount of forensic evidence that can be leveraged during security investigations. In this project, I focused on examining Windows file systems and extracting key artifacts using industry-standard forensic tools. The goal of this lab is to identify, interpret, and correlate file system artifacts that may indicate suspicious or malicious activity.
+Windows file systems and operating system artifacts store a significant amount of forensic evidence that can be leveraged during security investigations. In this project, I focused on examining Windows file systems and extracting key artifacts using industry standard forensic tools. The goal of this lab is to identify, interpret, and correlate file system artifacts that may indicate suspicious or malicious activity.
 
 ## Lab Setup
 For this project, I worked with a Windows operating system. The analysis can be performed on a physical system or within a virtual machine created using platforms such as VirtualBox or VMware.
@@ -113,4 +113,4 @@ SBECmd.exe -f <path_to_NTUSER.DAT> -o <output_directory>
 
 ### Outcome
 
-By completing this project, I gained hands on experience performing forensic analysis on Windows file systems and artifacts. This lab strengthened my ability to create forensic images, analyze NTFS structures, and interpret key artifacts such as the MFT, Prefetch files, and Shellbags—skills that are essential for digital forensics, incident response, and security investigations.
+By completing this project, I gained hands on experience performing forensic analysis on Windows file systems and artifacts. This lab strengthened my ability to create forensic images, analyze NTFS structures, and interpret key artifacts such as the MFT, Prefetch files, and Shellbags, skills that are essential for digital forensics, incident response, and security investigations.
