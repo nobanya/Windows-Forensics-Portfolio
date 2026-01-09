@@ -104,5 +104,5 @@ The following tools were used during this project:
 ---
 
 ## Outcome
-By completing this project, I gained hands on experience recovering deleted files and performing forensic analysis on Windows systems. This lab strengthened my ability to preserve evidence, analyze recovered data, and correlate file activity with system events—core skills required for effective digital forensics and incident response investigations.
+By completing this project, I gained hands on experience recovering deleted files and performing forensic analysis on Windows systems. This lab strengthened my ability to preserve evidence, analyze recovered data, and correlate file activity with system events, core skills required for effective digital forensics and incident response investigations.
 
