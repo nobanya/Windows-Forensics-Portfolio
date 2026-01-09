@@ -1,7 +1,7 @@
 # Browser Artifact Extraction & Analysis on Windows Platform
 
 ## Introduction
-Modern web browsers retain extensive records of user activity, including browsing history, cookies, cached content, saved credentials, and download information. In this project, I focused on extracting and analyzing browser artifacts from common Windows-based browsers to reconstruct user activity and identify potential indicators relevant to forensic investigations. This lab demonstrates how browser data can serve as valuable evidence during security and incident response cases.
+Modern web browsers retain extensive records of user activity, including browsing history, cookies, cached content, saved credentials, and download information. In this project, I focused on extracting and analyzing browser artifacts from common Windows based browsers to reconstruct user activity and identify potential indicators relevant to forensic investigations. This lab demonstrates how browser data can serve as valuable evidence during security and incident response cases.
 
 ## Lab Setup
 To complete this project, I used a Windows operating system. The analysis can be performed on a physical machine or within a virtual machine using platforms such as VirtualBox or VMware.
@@ -96,5 +96,5 @@ The following tools were used during this project:
 ---
 
 ## Outcome
-By completing this project, I gained hands-on experience extracting and interpreting browser artifacts on Windows systems. This lab strengthened my ability to analyze browser history, credentials, cookies, cache data, and downloads—skills that are essential for digital forensics, incident response, and reconstructing user activity during investigations.
+By completing this project, I gained hands on experience extracting and interpreting browser artifacts on Windows systems. This lab strengthened my ability to analyze browser history, credentials, cookies, cache data, and downloads—skills that are essential for digital forensics, incident response, and reconstructing user activity during investigations.
 
