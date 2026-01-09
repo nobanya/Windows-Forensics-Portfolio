@@ -1,7 +1,7 @@
 # Windows Registry Forensics For Threat Detection
 
 ## Overview
-The Windows Registry is a core component of the operating system that stores configuration data for both Windows and installed applications. In this project, I performed hands-on registry analysis to uncover indicators of malicious activity during a forensic investigation. Using the Volatility framework, I examined registry hives extracted from a memory image to identify user artifacts, persistence mechanisms, and suspicious behavior.
+The Windows Registry is a core component of the operating system that stores configuration data for both Windows and installed applications. In this project, I performed hands on registry analysis to uncover indicators of malicious activity during a forensic investigation. Using the Volatility framework, I examined registry hives extracted from a memory image to identify user artifacts, persistence mechanisms, and suspicious behavior.
 
 ## Lab Environment
 To complete this project, I worked with a Windows system and a captured memory image for forensic analysis. The lab can be performed on either a physical host or a virtual machine created with platforms such as VirtualBox or VMware.
