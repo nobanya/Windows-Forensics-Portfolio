@@ -110,4 +110,4 @@ LogParser.exe "SELECT a.TimeGenerated AS FailedLoginTime, b.TimeGenerated AS Suc
 
 ### Outcome
 
-Through this project, I gained hands-on experience investigating Windows Event Logs using native tools and supplemental utilities. The exercises strengthened my ability to detect suspicious authentication activity, automate log analysis, and correlate events to support security incident investigations. 
+Through this project, I gained hands on experience investigating Windows Event Logs using native tools and supplemental utilities. The exercises strengthened my ability to detect suspicious authentication activity, automate log analysis, and correlate events to support security incident investigations. 
