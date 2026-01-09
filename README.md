@@ -10,7 +10,7 @@ These projects focus on core digital forensics techniques commonly used in SOC, 
 2. [Windows Registry Forensics For Threat Detection](https://github.com/nobanya/Windows-Forensics-Portfolio/blob/9ad4d8c94c0dadbf2e0f1824dd46f4e5c44429d6/Windows-Registry-Forensics-Threat-Detection.md)
 3. [Forensic Examination of Windows File Systems & Artifacts](https://github.com/nobanya/Windows-Forensics-Portfolio/blob/67d69feadd96ee69a5c46515c64007a7b9b58ca5/Forensic-Examination-Of-Windows-File-System-Artifacts.md)
 4. [Browser Artifacts Extraction & Analysis on Windows](https://github.com/nobanya/Windows-Forensics-Portfolio/blob/b73736402a8e1256909b2dc1231b50eb1d5d5028/Browser-Artifact-Extraction-And-Analysis-On-Windows.md)
-5. [Deleted Files Recovery & ANalysis on Windows Systems]()
+5. [Deleted Files Recovery & ANalysis on Windows Systems](https://github.com/nobanya/Windows-Forensics-Portfolio/blob/84b4e8e83d213e1df2eee4a7afb61b4df55c74e2/Deleted-File-Recovery-And-Analysis-Within-Windows-Environments.md)
 
 ## Getting Started
 
