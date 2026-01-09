@@ -96,5 +96,5 @@ The following tools were used during this project:
 ---
 
 ## Outcome
-By completing this project, I gained hands on experience extracting and interpreting browser artifacts on Windows systems. This lab strengthened my ability to analyze browser history, credentials, cookies, cache data, and downloads—skills that are essential for digital forensics, incident response, and reconstructing user activity during investigations.
+By completing this project, I gained hands on experience extracting and interpreting browser artifacts on Windows systems. This lab strengthened my ability to analyze browser history, credentials, cookies, cache data, and downloads, skills that are essential for digital forensics, incident response, and reconstructing user activity during investigations.
 
