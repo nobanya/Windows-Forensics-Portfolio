@@ -1,7 +1,7 @@
 # Windows Event Log Analysis For Incident Response
 
 ## Overview
-Windows Event Logs provide critical visibility into system activity and user behavior. In this project, I performed hands-on analysis of Windows Event Logs to identify and investigate potential security incidents. The objective was to build practical experience accessing, filtering, parsing, and correlating event data to detect suspicious behavior and support incident investigation.
+Windows Event Logs provide critical visibility into system activity and user behavior. In this project, I performed hands on analysis of Windows Event Logs to identify and investigate potential security incidents. The objective was to build practical experience accessing, filtering, parsing, and correlating event data to detect suspicious behavior and support incident investigation.
 
 ## Lab Environment
 To complete this project, I used a Windows operating system. The lab can be performed on either a physical system or a virtual machine using platforms such as VirtualBox or VMware.
