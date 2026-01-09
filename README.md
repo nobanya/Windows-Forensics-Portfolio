@@ -1,6 +1,6 @@
 # Windows Forensics Projects 
 
-This repository documents my hands-on work completing a series of Windows forensics projects. The goal of this collection is to demonstrate practical skills used to investigate Windows systems, analyze forensic artifacts, and identify indicators of malicious activity in real-world scenarios.
+This repository documents my hands on work completing a series of Windows forensics projects. The goal of this collection is to demonstrate practical skills used to investigate Windows systems, analyze forensic artifacts, and identify indicators of malicious activity in real-world scenarios.
 
 These projects focus on core digital forensics techniques commonly used in SOC, incident response, and DFIR roles.
 
@@ -35,7 +35,7 @@ To replicate or review this work locally, follow the steps below:
 
 ## About Me
 
-I am building hands-on experience in cybersecurity with a focus on Windows forensics, incident response, and security operations. This repository represents my practical learning and serves as part of my professional portfolio.
+I am building hands on experience in cybersecurity with a focus on Windows forensics, incident response, and security operations. This repository represents my practical learning and serves as part of my professional portfolio.
 
 I am actively developing skills aligned with SOC and DFIR roles and welcome discussion, feedback, or collaboration opportunities.
 
