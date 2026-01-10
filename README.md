@@ -39,5 +39,8 @@ I am building hands on experience in cybersecurity with a focus on Windows foren
 
 I am actively developing skills aligned with SOC and DFIR roles and welcome discussion, feedback, or collaboration opportunities.
 
+This work is intended to be shared with recruiters and hiring managers as evidence of hands on experience rather than purely theoretical knowledge. 
+
 ---
+
 *Note: These projects are based on publicly available learning material and were independently completed and documented as part of my personal cybersecurity portfolio.*
